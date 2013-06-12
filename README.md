@@ -56,5 +56,6 @@ rosrun generator -s sound_file_directory
 </pre>
 
 In this package, the example sound_file_directory is PACKAGEROOT/sounds .
+
 NOTE: start generator before iwakishi, otherwise first iwakishi action messages
       may never be received.
