@@ -24,8 +24,7 @@ Nodes:
 iwakishi 
 --------
 <pre>
-rosrun iwaki iwakishi -t 0.1 -d DEBUG2 -l ./log1 -p scripts_directory 
-                      -i init_file -x
+rosrun iwaki iwakishi -t 0.1 -d DEBUG2 -l ./log1 -p scripts_directory  -i init_file -x
 </pre>
 
 In this package, the example scripts_directory is PACKAGEROOT/scripts and
