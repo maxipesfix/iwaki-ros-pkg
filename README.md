@@ -9,7 +9,8 @@ Requirements:
 - RE2 library: http://code.google.com/p/re2/
 - ncurses library
 - queueio and iwaki libraries: https://github.com/maxipesfix/iwaki
-
+- the example iwaki action executor, generator, calls gstreamer
+  to play sound files.
 
 Nodes:
 - iwakishi, the ROS wrapper around Iwaki library.
