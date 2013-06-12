@@ -6,6 +6,7 @@
   <maintainer email="maxi@cmu.edu">Maxim Makatchev</maintainer>
   <license>GPLv3</license>
 
+  <url>http://ros.org/wiki/iwaki</url>
   <author>Maxim Makatchev, Reid Simmons</author>
 
   <buildtool_depend>catkin</buildtool_depend>
