@@ -37,7 +37,7 @@ rosrun iwaki iwakishi -t 0.1 -d DEBUG2 -l ./log1 -p scripts_directory  -i init_f
 
 In this package, the example scripts_directory is PACKAGEROOT/scripts and
 the example init_file is initialize_im.georgi.xml . These example scripts 
-are triggered by time (heartbeat), console input lines "h" (how_are_you), "how" (how_are_you_and_you). how_are_you_and_you expects one of the two followups "y" or "n".
+are triggered by time (heartbeat), console input lines "h" (recipe how_are_you), "how" (recipe how_are_you_and_you). Recipe how_are_you_and_you expects one of the two followups "y" or "n".
 
 Command line args:     
 <pre>
