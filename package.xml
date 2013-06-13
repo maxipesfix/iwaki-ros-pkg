@@ -2,7 +2,7 @@
 <package>
   <name>iwaki</name>
   <version>0.0.0</version>
-  <description>The iwaki interaction and dialogue manager</description>
+  <description>Iwaki interaction and dialogue manager</description>
   <maintainer email="maxi@cmu.edu">Maxim Makatchev</maintainer>
   <license>GPLv3</license>
 
